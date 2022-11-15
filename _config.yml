@@ -12,3 +12,4 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 theme: just-the-docs
 plugins:
   - jekyll-seo-tag
+url: "https://luisolivaresj.github.io/Dosepy/"
